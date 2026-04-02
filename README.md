@@ -6,7 +6,10 @@ This project focuses on frontend design, component structure, and state manageme
 
 ---
 
-
+## Github repo
+https://github.com/Aastha1garg/finance-dashboard
+## 🚀 Live Demo
+https://finance-dashboard-git-main-aastha1gargs-projects.vercel.app/
 
 ---
 
